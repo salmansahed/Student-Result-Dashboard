@@ -1,16 +1,52 @@
-# React + Vite
+# 🎓 Students Results Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and interactive **React** application designed to visualize and manage student academic performance. This project features real-time search, performance analytics, and dynamic data visualization using Recharts.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the live project here: [https://student-result-dashboard.netlify.app/](https://student-result-dashboard.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Key Features
 
-## React Compiler
+* 🔍 **Real-time Search:** Instantly filter students by name with case-insensitive and whitespace-friendly search.
+* 📊 **Data Visualization:** Interactive line charts showing student performance across multiple subjects (Math, Physics, ICT, etc.).
+* ⚡ **Performance Metrics:** Automatically calculates average marks and assigns performance labels (e.g., Outstanding, Very Good, Average).
+* 📱 **Fully Responsive:** Optimized for all screen sizes using **Tailwind CSS**.
+* 🎨 **Modern UI:** Clean card-based layout with a dark-themed analytics section.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+* **React.js** (Frontend Library)
+* **Vite** (Build Tool)
+* **Tailwind CSS** (Styling)
+* **Recharts** (Data Visualization)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation & Setup
+
+If you want to run this project locally, follow these steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/your-username/student-result-dashboard.git](https://github.com/your-username/student-result-dashboard.git)
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd student-result-dashboard
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+4.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+
+## 📸 Screenshots
+
+| Dashboard Overview | Search Functionality | Analytics Chart |
+| :--- | :--- | :--- |
+| ![Dashboard](./src/assets/image/dashboard.png) | ![Search](./src/assets/image/search.png) | ![Chart](./src/assets/image/result_chart.png) |
+
+---
+
+Developed with ❤️ by **Salman Sahed**
