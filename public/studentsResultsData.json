@@ -1,0 +1,327 @@
+[
+  {
+    "student_id": 1,
+    "name": "Rahim",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 85,
+      "chemistry": 78,
+      "math": 90,
+      "biology": 82,
+      "english": 75,
+      "ict": 88
+    }
+  },
+  {
+    "student_id": 2,
+    "name": "Karim",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 75,
+      "chemistry": 82,
+      "math": 88,
+      "biology": 80,
+      "english": 77,
+      "ict": 85
+    }
+  },
+  {
+    "student_id": 3,
+    "name": "Salma",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 92,
+      "chemistry": 89,
+      "math": 95,
+      "biology": 91,
+      "english": 88,
+      "ict": 93
+    }
+  },
+  {
+    "student_id": 4,
+    "name": "Jannat",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 80,
+      "chemistry": 85,
+      "math": 87,
+      "biology": 83,
+      "english": 79,
+      "ict": 84
+    }
+  },
+  {
+    "student_id": 5,
+    "name": "Hasan",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 70,
+      "chemistry": 74,
+      "math": 72,
+      "biology": 68,
+      "english": 71,
+      "ict": 73
+    }
+  },
+  {
+    "student_id": 6,
+    "name": "Nusrat",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 88,
+      "chemistry": 90,
+      "math": 86,
+      "biology": 89,
+      "english": 85,
+      "ict": 87
+    }
+  },
+  {
+    "student_id": 7,
+    "name": "Fahim",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 25,
+      "chemistry": 58,
+      "math": 10,
+      "biology": 26,
+      "english": 49,
+      "ict": 32
+    }
+  },
+  {
+    "student_id": 8,
+    "name": "Mim",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 95,
+      "chemistry": 94,
+      "math": 98,
+      "biology": 96,
+      "english": 92,
+      "ict": 97
+    }
+  },
+  {
+    "student_id": 9,
+    "name": "Sabbir",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 78,
+      "chemistry": 76,
+      "math": 80,
+      "biology": 79,
+      "english": 74,
+      "ict": 77
+    }
+  },
+  {
+    "student_id": 10,
+    "name": "Jack",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 89,
+      "chemistry": 87,
+      "math": 90,
+      "biology": 88,
+      "english": 84,
+      "ict": 86
+    }
+  },
+  {
+    "student_id": 11,
+    "name": "Arafat",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 82,
+      "chemistry": 79,
+      "math": 84,
+      "biology": 81,
+      "english": 78,
+      "ict": 80
+    }
+  },
+  {
+    "student_id": 12,
+    "name": "Taslima",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 91,
+      "chemistry": 88,
+      "math": 93,
+      "biology": 90,
+      "english": 87,
+      "ict": 92
+    }
+  },
+  {
+    "student_id": 13,
+    "name": "Rafi",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 73,
+      "chemistry": 70,
+      "math": 75,
+      "biology": 72,
+      "english": 69,
+      "ict": 74
+    }
+  },
+  {
+    "student_id": 14,
+    "name": "Shila",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 86,
+      "chemistry": 83,
+      "math": 89,
+      "biology": 85,
+      "english": 82,
+      "ict": 88
+    }
+  },
+  {
+    "student_id": 15,
+    "name": "Imran",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 77,
+      "chemistry": 80,
+      "math": 78,
+      "biology": 76,
+      "english": 75,
+      "ict": 79
+    }
+  },
+  {
+    "student_id": 16,
+    "name": "Mahi",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 90,
+      "chemistry": 92,
+      "math": 94,
+      "biology": 91,
+      "english": 89,
+      "ict": 93
+    }
+  },
+  {
+    "student_id": 17,
+    "name": "Nayeem",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 68,
+      "chemistry": 72,
+      "math": 69,
+      "biology": 70,
+      "english": 67,
+      "ict": 71
+    }
+  },
+  {
+    "student_id": 18,
+    "name": "Lima",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 84,
+      "chemistry": 86,
+      "math": 88,
+      "biology": 85,
+      "english": 83,
+      "ict": 87
+    }
+  },
+  {
+    "student_id": 19,
+    "name": "Sohan",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 79,
+      "chemistry": 77,
+      "math": 81,
+      "biology": 78,
+      "english": 76,
+      "ict": 80
+    }
+  },
+  {
+    "student_id": 20,
+    "name": "Priya",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 93,
+      "chemistry": 91,
+      "math": 96,
+      "biology": 94,
+      "english": 90,
+      "ict": 95
+    }
+  },
+  {
+    "student_id": 21,
+    "name": "Rakib",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 74,
+      "chemistry": 76,
+      "math": 79,
+      "biology": 75,
+      "english": 73,
+      "ict": 78
+    }
+  },
+  {
+    "student_id": 22,
+    "name": "Anika",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 87,
+      "chemistry": 85,
+      "math": 90,
+      "biology": 88,
+      "english": 84,
+      "ict": 89
+    }
+  },
+  {
+    "student_id": 23,
+    "name": "Bappy",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 19,
+      "chemistry": 0,
+      "math": 25,
+      "biology": 20,
+      "english": 20,
+      "ict": 20
+    }
+  },
+  {
+    "student_id": 24,
+    "name": "Farzana",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 88,
+      "chemistry": 84,
+      "math": 91,
+      "biology": 87,
+      "english": 83,
+      "ict": 90
+    }
+  },
+  {
+    "student_id": 25,
+    "name": "Tanvir",
+    "image": "https://www.gravatar.com/avatar/?d=mp&s=150",
+    "marks": {
+      "physics": 76,
+      "chemistry": 78,
+      "math": 82,
+      "biology": 79,
+      "english": 77,
+      "ict": 81
+    }
+  }
+]
